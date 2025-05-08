@@ -25,9 +25,9 @@ User's priorties:
 - CPU Cooler: [NZXT Kraken 360 RGB](https://nzxt.com/products/kraken-360-rgb?srsltid=AfmBOoooFas0trfDnvWGCImldhyNFDfbdqcWcwuKQbMR7MjDuHO0yjBa)
 - Fans: [Corsair iCUE AR120 RGB - White](https://www.corsair.com/ca/en/p/case-fans/co-9050169-ww/icue-ar120-digital-rgb-120mm-pwm-fan-triple-pack-white-co-9050169-ww)
 ### Peripherals
-- Monitor: [LG 27" Ultrawide -----oopsies forgot this one------]()
+- Monitor: [LG 29” UltraWide](https://www.lg.com/ca_en/monitors/ultrawide/29wq500-b/). User previously had this.
 - Keyboard: [AJAZZ AK820 Pro](https://ajazzstore.com/products/ajazz-ak820-pro?variant=42723205677109)
-- Mouse: [AJAZZ AJ52 Mouse](https://ajazzbrand.com/products/ajazz-aj52-mouse?srsltid=AfmBOopitdJwuDJQ3O0E8jykWxbtBRj_sIArfwCgYR6dMoHt25t4r7fo)
+- Mouse: [AJAZZ AJ52 Mouse](https://ajazzbrand.com/products/ajazz-aj52-mouse?srsltid=AfmBOopitdJwuDJQ3O0E8jykWxbtBRj_sIArfwCgYR6dMoHt25t4r7fo). User already had this.
 - Deskmat: [Osume Lilac Dreams - Large](https://osume.com/en-ca/products/lilac-dreams-standard-deskmat)
 ### Extra
 - Headphones: [Sony WH-CH720N Noise Cancelling Wireless Headphones - White](https://www.amazon.ca/dp/B0BS74M665/?coliid=I3CR72NEX44ZZL&colid=36ZC2L2LP6I7Q&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
