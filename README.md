@@ -1,7 +1,7 @@
 # Custom-PC-Build
 A purpose-built PC tailored for an ECE student balancing demanding coursework, personal projects, and gaming. This build prioritizes performance and functionality while maintaining a clean aesthetic, with components carefully selected during Black Friday sales to optimize value.
 
-| pic | pic |  pic |
+|  |  |   |
 | --- | --- | --- |
 | ![image of pc](./Media/IMG_7221.jpg) | ![image of pc](./Media/IMG_6099.jpg) | ![image of pc](./Media/IMG_8985.jpg) |
 | ![image of pc](./Media/IMG_7222.jpg) | ![image of pc](./Media/IMG_7219.jpg) | ![image of pc](./Media/IMG_6097.jpg) |
