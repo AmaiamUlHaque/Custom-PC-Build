@@ -48,6 +48,7 @@ A purpose-built PC tailored for an ECE student balancing demanding coursework, p
 ### Main Components
 
 **CPU:** [AMD Ryzen 7 7800X3D](https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-7-7800x3d.html)
+- High clock speed of 4.2GHz, with a max overclock of upto 5GHz
 - 8 Cores / 16 Threads for excellent multitasking
 - Large 96MB L3 3D V-Cache, ideal for simulation software and heavily modded games
 - High single-core performance for gaming and general productivity

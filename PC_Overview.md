@@ -4,7 +4,7 @@ Meet the ultimate productivity and gaming powerhouse, built around the groundbre
 
 ### Key Specifications
 
-**Processor:** AMD Ryzen™ 7 7800X3D | Experience dominant performance with 8 cores, 16 threads, and the game-changing 96MB of 3D V-Cache, delivering unparalleled speed in gaming and CPU-intensive tasks.
+**Processor:** AMD Ryzen™ 7 7800X3D | Experience dominant performance with 8 cores, 16 threads at 4.2GHz and upto 5GHz overclocking, and the game-changing 96MB of 3D V-Cache, delivering unparalleled speed in gaming and CPU-intensive tasks.
 
 **Graphics:** NVIDIA GeForce RTX® 4070 12GB (White OC Edition) | Render complex projects and dive into ray-traced worlds with stunning detail, powered by DLSS 3 AI acceleration.
 
