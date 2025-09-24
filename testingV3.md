@@ -89,3 +89,28 @@ A purpose-built PC tailored for an ECE student balancing demanding coursework, p
 - **Mouse**: AJAZZ AJ52 (existing) - Familiar input device for precision work
 
 
+| Component | Model | Key Features |
+|-----------|-------|--------------|
+| **CPU** | AMD Ryzen 7 7800X3D |- 8 Cores / 16 Threads for excellent multitasking
+- Large 96MB L3 3D V-Cache, ideal for simulation software and heavily modded games
+- High single-core performance for gaming and general productivity
+- Incredible power efficiency
+- AMD EXPO technology for easy memory overclocking 
+|
+| **GPU** | ASUS Dual RTX 4070 White OC | - 12GB of GDDR6X VRAM for high-resolution textures and mods
+- DLSS 3 with Frame Generation for boosted performance in supported games
+- White aesthetic to match the build theme
+- NVIDIA Studio Drivers beneficial for content creation and engineering software
+|
+| **Motherboard** | MSI Pro B650-P WIFI | - Supports PCIe 5.0 for future storage upgrades
+- Robust power delivery system for stable CPU performance
+- Built-in Wi-Fi 6E and 2.5G LAN
+- Four DDR5 DIMM slots with EXPO support
+- Multiple M.2 slots for storage expansion
+ |
+| **RAM** | GSkill Flare X5 32GB (2x16) | DDR5-6000, AMD EXPO optimized |
+| **Storage** | Inland QN322 2TB SSD | Gen4 NVMe, ample storage for projects/games |
+| **PSU** | Aresgame AGT850 | 850W 80+ Gold, fully modular |
+| **Case** | Hyte Y60 Snow White | Premium aesthetics, excellent airflow |
+| **CPU Cooler** | NZXT Kraken 360 RGB | 360mm AIO, reliable cooling for X3D chip |
+| **Fans** | Corsair iCUE AR120 RGB White | PWM control, RGB integration |
