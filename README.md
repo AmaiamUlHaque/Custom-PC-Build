@@ -16,9 +16,39 @@ A purpose-built PC tailored for an ECE student balancing demanding coursework, p
 2. **Aesthetic** - Clean, white-themed build with RGB accents
 3. **Budget** - Value-focused with Black Friday discounts maximizing cost-to-performance
 
-## ⚙️ PC Specifications
 
-### Overall Specs
+## The Y60 Snowflake - Engineered for Peak Performance
+
+Meet the ultimate productivity and gaming powerhouse, built around the groundbreaking AMD Ryzen™ 7 7800X3D processor. This meticulously crafted white-themed PC is designed for ECE students and creators who demand uncompromising performance for multitasking, complex simulations, and immersive gaming.
+
+### Key Specifications
+
+**Processor:** AMD Ryzen™ 7 7800X3D | Experience dominant performance with 8 cores, 16 threads, and the game-changing 96MB of 3D V-Cache, delivering unparalleled speed in gaming and CPU-intensive tasks.
+
+**Graphics:** NVIDIA GeForce RTX® 4070 12GB (White OC Edition) | Render complex projects and dive into ray-traced worlds with stunning detail, powered by DLSS 3 AI acceleration.
+
+**Memory:** 32GB G.Skill Flare X5 DDR5 6000MHz (AMD EXPO™ Certified) | Smash through multitasking and heavy workloads with high-bandwidth memory perfectly tuned for the AMD Ryzen platform.
+
+**Storage:** 2TB Inland Performance NVMe Gen 4 SSD | Enjoy near-instantaneous load times for your OS, applications, and vast game libraries with this blazing-fast solid-state drive.
+
+**Chassis & Cooling:** HYTE Y60 Snow White Case w/ NZXT Kraken 360 RGB AIO | A stunning dual-chamber design with exceptional airflow, featuring a 360mm all-in-one liquid cooler to keep the Ryzen 7 7800X3D running at peak performance silently and efficiently.
+
+**Power Supply:** 850W Aresgame AGT850 80+ Gold Fully Modular | Receive clean, reliable power with plenty of headroom for future upgrades, all while maintaining a pristine cable management system.
+
+### Why You'll Love This Build
+
+**Conquer Any Task:** From compiling code and running simulations to hosting multiple virtual machines, the AMD Ryzen 7 7800X3D handles it all with ease.
+
+**Aesthetic Excellence:** A clean, professional white aesthetic with subtle RGB lighting creates a centerpiece for any workspace.
+
+**Built to Last:** Featuring a robust MSI B650 motherboard and high-quality components, this system is engineered for reliability and future-proof performance.
+
+**Game with Authority:** Max out settings in heavily modded titles like Minecraft and the latest AAA games, leveraging the potent combination of the X3D's cache and the RTX 4070.
+
+> Ready to elevate your workflow and productivity? This build is the perfect fusion of cutting-edge technology and sophisticated design.
+
+
+## ⚙️ PC Specifications
 
 ### Main Components
 
@@ -103,12 +133,72 @@ The user specifically requested to continue using these as to reduce the overall
 ## 🔮 Future Upgrades Roadmap
 
 ### High Priority
-- **Dual 28" 4K Curved Monitors** - Unlock GPU potential and enhance productivity workflow
-- **Keyboard Wrist Rest** - Improved typing comfort during long sessions
+
+**Monitors:** [DecoGear 39" 2K Curved Monitor - White (2 Pack)](https://www.decogear.com/collections/monitors/products/deco-gear-39-curved-ultrawide-gaming-monitor-view391wht)
+- 39-inch 2K curved ultrawide screens provide immense screen real estate for coding, research, and applications side-by-side
+- 144Hz refresh rate ensures smooth scrolling and a great gaming experience
+- White finish perfectly matches the existing build aesthetic
+
+**Keyboard Wrist Rest:** [SELORSS Acrylic Keyboard Wrist Rest](https://www.amazon.ca/dp/B0BND5YYQN/?coliid=I6BL2J25WYZF&colid=1ES4EUEKFPLL1&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
+- Transparent acrylic design maintains a clean, modern look
+- Ergonomic height and angle reduces strain on wrists during long typing sessions
+- Easy to clean surface maintains its appearance over time
 
 ### Quality of Life
-- **Desktop Speakers** - Creative Pebble for media consumption
-- **Monitor Stand** - Ergonomic adjustment and desk space optimization
-- **Cable Management** - Ikea Signum for cleaner desk appearance
-- **Wireless Controller** - 8Bitdo for casual gaming and emulation
-- 
+
+**Desktop Speakers:** [Creative Pebble 2.0 USB-Powered Desktop Speakers - White](https://www.amazon.ca/dp/B0791J2658/?coliid=I5XILRRT9602W&colid=1ES4EUEKFPLL1&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
+- Compact, modern white design that fits the workspace theme
+- USB-powered for simple, cable-free setup from the monitor or PC
+- Clear audio quality for music, videos, and conference calls
+
+**Monitor Stand:** [VIVO Dual Monitor Stand](https://www.amazon.ca/dp/B0CRH96V9F/?coliid=I33SF1RTOF1N8K&colid=1ES4EUEKFPLL1&th=1) or [HUANUO Dual Monitor Stand](https://www.amazon.ca/dp/B0CJR9RHGP/?coliid=I32WTYQNDUVS97&colid=1ES4EUEKFPLL1&th=1)
+- Frees up significant desk space by elevating the monitors
+- Full adjustability (tilt, swivel, height) for an ergonomic viewing angle
+- Built-in cable management for a clean and organized look
+
+**Cable Management:** [Ikea Signum Cable Management](https://www.ikea.com/ca/en/p/signum-cable-management-horizontal-silver-color-30200253/)
+- Horizontal rack that mounts neatly under the desk, hiding all cables from view
+- Durable steel construction capable of holding power bricks and multiple cables
+- Simple installation that requires no special tools
+
+**Wireless Controller:** [8Bitdo Ultimate 2C Wireless Controller - Purple](https://www.amazon.ca/dp/B0D72TNXSC/?coliid=I2URYJ86TNMQXR&colid=3J32FENSIKXTO&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
+- 2.4GHz wireless connection for lag-free gaming on PC and emulators
+- Comfortable ergonomic design suitable for long gaming sessions
+- Hall Effect joysticks and Hall triggers and wear-resistant metal joystick rings
+
+**Ergonomic Mouse:** [Uineer U6 Ergonomic Mouse - Purple](https://www.amazon.ca/dp/B0DKJSVWTX/?coliid=I2R3KQUA78XUEB&colid=OIZDG1IM6QPH&th=1) or [Redragon M916 PRO - White](https://www.amazon.ca/dp/B0CPXYQTPF/?coliid=I3NW4J2CVTGQG5&colid=OIZDG1IM6QPH&th=1)
+- **Uineer U6:** Vertical design promotes a natural handshake grip to reduce wrist strain
+- **Redragon M916:** Symmetrical white design with programmable buttons for productivity
+- Both offer wireless connectivity to reduce desk clutter
+
+**Mug Warmer:** [House Gem Mug Warmer](https://www.amazon.ca/dp/B0CCP46DK9/?coliid=I3EKLDXVGQ5V4Z&colid=1REL3F142F5J5&th=1)
+- Maintains the perfect drinking temperature for coffee, tea, and other hot beverages
+- Automatic shut-off feature for safety and peace of mind
+- Keeps drinks warm for peak productive vibes without disrupting your train of thought for a trip to reheat those awkward lukewarm drinks
+
+
+## 📚 Skills Learned & Applied
+
+### Technical Skills
+- Component compatibility research and validation
+- Budget optimization through strategic sale timing
+- Cable management and airflow optimization
+- BIOS configuration and EXPO memory tuning
+- Driver installation and system benchmarking
+
+### Project Management
+- Requirements analysis based on user needs
+- Vendor selection and price tracking
+- Build documentation and photography
+- Post-build testing and validation
+
+## 🙏 Acknowledgements
+
+- Black Friday/Cyber Monday deals for making premium components accessible
+- ECE community for workload-specific performance recommendations
+- PC building communities for troubleshooting assistance and best practices
+- Component manufacturers for detailed specifications and compatibility guidance
+
+---
+
+*Built with ❤️ for the ECE student who needs both computational power, seamless productivity, and gaming capability in one versatile machine.*
