@@ -1,6 +1,25 @@
 # Custom-PC-Build
 A purpose-built PC tailored for an ECE student balancing demanding coursework, personal projects, and gaming. This build prioritizes performance and functionality while maintaining a clean aesthetic, with components carefully selected during Black Friday sales to optimize value.
 
+## Table of Contents
+1. [🎯 User Profile & Requirements](#-user-profile--requirements)
+2. [⚙️ PC Specifications](#️-pc-specifications)
+    - [Main Components](#main-components)
+3. [🖥️ Peripheral Ecosystem](#️-peripheral-ecosystem)
+    - [Current Setup](#current-setup)
+    - [Workspace Environment](#workspace-environment)
+4. [🔮 Future Upgrades Roadmap](#-future-upgrades-roadmap)
+    - [High Priority](#high-priority)
+    - [Quality of Life](#quality-of-life)
+5. [📚 Skills Learned & Applied](#-skills-learned--applied)
+    - [Technical Hardware Skills](#technical-hardware-skills)
+    - [Build & Assembly Expertise](#build--assembly-expertise)
+    - [Planning & Research](#planning--research)
+    - [Tools & Software](#tools--software)
+    - [Project Management](#project-management)
+6. [🙏 Acknowledgements](#-acknowledgements)
+
+
 ## 🎯 User Profile & Requirements
 
 **Primary User:** Electrical and Computer Engineering (ECE) Student
@@ -148,18 +167,36 @@ The user specifically requested to continue using these as to reduce the overall
 
 ## 📚 Skills Learned & Applied
 
-### Technical Skills
-- Component compatibility research and validation
-- Budget optimization through strategic sale timing
-- Cable management and airflow optimization
-- BIOS configuration and EXPO memory tuning
-- Driver installation and system benchmarking
+### Technical Hardware Skills
+- **PC Component Selection** - Researched and selected compatible hardware for optimal performance and budget
+- **System Architecture Understanding** - Knowledge of how CPU, GPU, RAM, storage, and motherboard interact
+- **Power Management** - Proper PSU selection and wattage calculation for system stability
+- **Thermal Management** - CPU cooler installation and case airflow optimization for efficient cooling
+- **Cable Management** - Professional wiring techniques for optimal airflow and aesthetics
+
+### Build & Assembly Expertise
+- **Motherboard Installation** - Proper mounting and standoff installation
+- **Component Handling** - Safe installation of sensitive components (CPU, RAM, GPU)
+- **Storage Configuration** - SSD/HDD installation and mounting
+- **Front Panel Connectivity** - System panel headers, USB, and audio connections
+- **Troubleshooting** - POST testing and diagnostic procedures
+
+### Planning & Research
+- **Budget Optimization** - Maximizing performance per dollar spent
+- **Compatibility Verification** - Ensuring all components work together seamlessly
+- **Future-Proofing** - Selecting components with upgrade paths in mind
+- **Use-Case Analysis** - Tailoring component selection to specific computing needs (gaming, productivity, etc.)
+
+### Tools & Software
+- **Hardware Tools** - Proper use of anti-static equipment and assembly tools
+- **BIOS Configuration** - System setup and hardware recognition
+- **Driver Installation** - Operating system and hardware driver setup
 
 ### Project Management
-- Requirements analysis based on user needs
-- Vendor selection and price tracking
-- Build documentation and photography
-- Post-build testing and validation
+- **End-to-End Project Execution** - From research and planning to final assembly
+- **Documentation** - Creating comprehensive build logs and guides
+- **Problem Solving** - Overcoming compatibility issues and assembly challenges
+
 
 ## 🙏 Acknowledgements
 

@@ -14,7 +14,7 @@ Meet the ultimate productivity and gaming powerhouse, built around the groundbre
 
 **Chassis & Cooling:** HYTE Y60 Snow White Case w/ NZXT Kraken 360 RGB AIO | A stunning dual-chamber design with exceptional airflow, featuring a 360mm all-in-one liquid cooler to keep the Ryzen 7 7800X3D running at peak performance silently and efficiently.
 
-**Power Supply:** 850W Aresgame AGT850 80+ Gold Fully Modular | Receive clean, reliable power with plenty of headroom for future upgrades, all while maintaining a pristine cable management system.
+**Power Supply:** 850W Aresgame AGT850 80+ Gold Fully Modular | Receive clean, reliable power with plenty of headroom for future upgrades, all while maintaining a pristine cable management system. 
 
 ### Why You'll Love This Build
 
